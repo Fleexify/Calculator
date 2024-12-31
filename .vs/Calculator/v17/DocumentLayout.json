@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sepehr Rayaneh\\Desktop\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F0C60-0289-4641-BFE1-5376AA693C23}|CalculatorFy\\CalculatorFy.csproj|C:\\Users\\Sepehr Rayaneh\\Desktop\\Calculator\\calculatorfy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A64F0C60-0289-4641-BFE1-5376AA693C23}|CalculatorFy\\CalculatorFy.csproj|solutionrelative:calculatorfy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CalculatorFy||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F0C60-0289-4641-BFE1-5376AA693C23}|CalculatorFy\\CalculatorFy.csproj|c:\\users\\sepehr rayaneh\\desktop\\calculator\\calculatorfy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64F0C60-0289-4641-BFE1-5376AA693C23}|CalculatorFy\\CalculatorFy.csproj|solutionrelative:calculatorfy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F0C60-0289-4641-BFE1-5376AA693C23}|CalculatorFy\\CalculatorFy.csproj|c:\\users\\sepehr rayaneh\\desktop\\calculator\\calculatorfy\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorFy",
+              "DocumentMoniker": "C:\\Users\\Sepehr Rayaneh\\Desktop\\Calculator\\CalculatorFy\\CalculatorFy.csproj",
+              "RelativeDocumentMoniker": "CalculatorFy\\CalculatorFy.csproj",
+              "ToolTip": "C:\\Users\\Sepehr Rayaneh\\Desktop\\Calculator\\CalculatorFy\\CalculatorFy.csproj",
+              "RelativeToolTip": "CalculatorFy\\CalculatorFy.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-09T18:42:38.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Sepehr Rayaneh\\Desktop\\Calculator\\CalculatorFy\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculatorFy\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sepehr Rayaneh\\Desktop\\Calculator\\CalculatorFy\\Form1.cs",
+              "RelativeToolTip": "CalculatorFy\\Form1.cs",
+              "ViewState": "AQIAADUBAAAAAAAAAAAAAFAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:19:59.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sepehr Rayaneh\\Desktop\\Calculator\\CalculatorFy\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculatorFy\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sepehr Rayaneh\\Desktop\\Calculator\\CalculatorFy\\Form1.cs [Design]",
+              "RelativeToolTip": "CalculatorFy\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:53:17.72Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
